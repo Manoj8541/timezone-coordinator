@@ -139,7 +139,7 @@ MIT License
 
 ## 👤 Author
 
-Built by Manoj
+Built by [@manoj8541](https://www.github.com/manoj8541)
 
 ---
 
