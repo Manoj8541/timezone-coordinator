@@ -7,7 +7,7 @@ A fully client-side web app that finds the **fairest meeting time** for distribu
 ---
 
 ## 🚀 Live Demo
-👉 https://your-username.github.io/your-repo-name/
+👉 https://timezone-coordinator-phi.vercel.app/index.html
 
 ---
 
